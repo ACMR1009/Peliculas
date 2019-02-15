@@ -18,8 +18,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/howtotrainyourdragon"
-        android:contentDescription="@string/todo" />
+        app:srcCompat="@drawable/howtotrainyourdragon" />
 
     <TextView
         android:id="@+id/txtTitulo1"
@@ -62,8 +61,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtDescripcion1"
-        app:srcCompat="@drawable/legomovieparttwo"
-        android:contentDescription="@string/todo" />
+        app:srcCompat="@drawable/legomovieparttwo" />
 
     <TextView
         android:id="@+id/txtTitulo2"
@@ -106,8 +104,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txtDescripcion2"
-        app:srcCompat="@drawable/greenbook"
-        android:contentDescription="@string/todo" />
+        app:srcCompat="@drawable/greenbook" />
 
     <TextView
         android:id="@+id/txtTitulo3"
