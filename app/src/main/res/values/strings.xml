@@ -6,5 +6,8 @@
     <string name="Descripción2">Descripción 2</string>
     <string name="Título3">Título 3</string>
     <string name="Descripción3">Descripción 3</string>
+    <string name="ImageView">ImageView</string>
+    <string name="ImageView2">ImageView2</string>
+    <string name="ImageView3">ImageView3</string>
 
 </resources>
