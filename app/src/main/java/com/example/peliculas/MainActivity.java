@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         txtTitulo3 = (TextView) findViewById(R.id.textView5);
         txtDescripcion3 = (TextView) findViewById(R.id.textView6);
 
-        txtTitulo1.setText("How To Train Your Dragos: The Hidden World");
+        txtTitulo1.setText("How To Train Your Dragon: The Hidden World");
         txtDescripcion1.setText("Cuando Hipo descubre que Chimuelo no es el único Furia Nocturna, debe ir en busca del mundo oculto.");
         txtTitulo2.setText("The Lego Movie: The Second Part");
         txtDescripcion2.setText("Han pasado 5 años y ahora los ciudadanos enfrentan una nueva amenaza: Invasores Lego DUPLO® del espacio exterior.");
